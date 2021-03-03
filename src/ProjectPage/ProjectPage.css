@@ -1,0 +1,67 @@
+.color-change-3x2 {
+  -webkit-animation: color-change-3x 10s linear infinite alternate both;
+  animation: color-change-3x 10s linear infinite alternate both;
+}
+@-webkit-keyframes color-change-3x {
+  0% {
+    background: #030203;
+  }
+  50% {
+    background: #1d2422;
+  }
+  100% {
+    background: #030203;
+  }
+}
+@keyframes color-change-3x {
+  0% {
+    background: #030203;
+  }
+  50% {
+    background: #030203;
+  }
+  100% {
+    background: #1f2524;
+  }
+}
+
+.cont-main2 {
+  background-color: black;
+  padding-top: 100px;
+  height: 100vh;
+}
+
+.port-box {
+  margin: 10px;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
+  list-style: none;
+  background-color: rgb(243, 202, 140);
+}
+
+.ul-port {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.figure-li-box {
+  position: relative;
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  background-image: url(../ProjectPage/Apex_1_Horizontal_RGB.svg);
+  background-size: cover;
+  width: 200px;
+  height: 70px;
+  top: 30%;
+  left: 20%;
+}
+
+.port-box:hover {
+  transform: scaleX(1.05);
+  transition: 200ms;
+}
