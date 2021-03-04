@@ -58,6 +58,18 @@
   color: cornsilk;
   width: 200px;
 }
+.button-about:hover {
+  padding: 10px;
+  border-style: none;
+  border-radius: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  background-color: rgb(255, 180, 3);
+  color: cornsilk;
+  width: 200px;
+  transform: scale(1.1);
+  transition: 250ms;
+}
 
 .descrip-paraf {
   font-family: "Montserrat", sans-serif;

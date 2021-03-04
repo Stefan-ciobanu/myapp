@@ -27,7 +27,9 @@ export default class HomePage extends React.Component {
                 clean & user‑friendly experiences, I am passionate about
                 building excellent software.
               </p>
-              <button className="button-about">More About Me </button>
+              <Link to="/about">
+                <button className="button-about">More About Me</button>
+              </Link>
             </div>
           </div>
         </div>

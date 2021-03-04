@@ -1,18 +1,74 @@
-.modal {
-  width: 600px;
-  height: 600px;
-  background-color: rgb(5, 5, 17);
-  z-index: 1;
-  width: 100%;
-  height: 100%;
-}
 .modal_content {
-  background-color: white;
-  position: absolute;
-  top: 20%;
-  left: 30%;
-  width: 40%;
+  position: fixed;
+  background-color: rgba(99, 98, 96, 0.582);
+  left: 10%;
+  top: 5%;
+  width: 80%;
+  height: 90%;
+  z-index: 3;
+
+  border-radius: 20px;
   padding: 20px;
-  border-radius: 5px;
-  border: 2px solid black;
+  position: fixed;
+  box-shadow: rgba(0, 0, 0, 0.603);
+}
+
+.i-frame {
+  margin-left: 10%;
+  border-radius: 10px;
+  padding-left: 0px;
+  width: 80%;
+  height: 70vh;
+}
+
+.modal_content .close {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  font-size: 50px;
+  color: rgb(252, 252, 252);
+  font-family: "Montserrat", sans-serif;
+}
+
+.modal_content .close:hover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  font-size: 50px;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(255, 180, 3);
+}
+
+.title-b {
+  background-color: black;
+  margin-left: 10%;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  width: 80%;
+  height: 100px;
+  font-size: 17px;
+  color: antiquewhite;
+}
+
+.div-style-detail {
+  color: antiquewhite;
+  display: flex;
+  flex-direction: row;
+  font-size: 14px;
+}
+
+.div-style-detail h6 {
+  padding-left: 10px;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  color: rgb(255, 180, 3);
+  font-size: 17px;
 }

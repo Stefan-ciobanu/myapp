@@ -24,8 +24,9 @@ export class Header extends React.Component {
     const userDevice = detectDevice();
 
     return (
-      <Container className="header" fluid>
-        <Row
+      <container className="header" fluid>
+        <div
+          className="wi-hi-header"
           style={
             userDevice !== "mobile" ? { width: "100%" } : { width: "auto" } //mobile
           }
@@ -46,8 +47,8 @@ export class Header extends React.Component {
               </Col>
             </Row>
           </Col>
-        </Row>
-      </Container>
+        </div>
+      </container>
     );
   }
 }

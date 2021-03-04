@@ -1,5 +1,6 @@
 import React from "react";
 import "./AboutPage.css";
+import { Link } from "react-router-dom";
 import { Container, Row, Col } from "react-bootstrap";
 import { ProgressBar } from "react-bootstrap";
 import briefcasesolid from "../Utils/briefcasesolid.svg";
@@ -41,14 +42,9 @@ export default class AboutPage extends React.Component {
                     <span className="details-fonts"> Roumanian</span>
                   </li>
                 </ul>
-                <button
-                  className="button-cv"
-                  href={StefanCiobanuCV}
-                  target="_blank"
-                  download
-                >
-                  DOWNLOAD CV
-                </button>
+                <Link to={StefanCiobanuCV} target="_blank" view>
+                  <button className="button-about">DOWNLOAD CV</button>
+                </Link>
               </Col>
               <Col className="details-col">
                 <ul className="ul-style-2">
