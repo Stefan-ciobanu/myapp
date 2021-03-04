@@ -26,6 +26,8 @@
   - shared/ ( utils.js, api.js ( server requests))
   - Utils/img
   - App.jsx ( Router )
+  - 
+## Available Scripts
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
