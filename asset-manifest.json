@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.b9b30937.chunk.css",
-    "main.js": "/myapp/static/js/main.7136889c.chunk.js",
-    "main.js.map": "/myapp/static/js/main.7136889c.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.243f6b1b.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.243f6b1b.js.map",
+    "main.css": "/myapp/static/css/main.85217554.chunk.css",
+    "main.js": "/myapp/static/js/main.d684d7fc.chunk.js",
+    "main.js.map": "/myapp/static/js/main.d684d7fc.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.c038868e.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.c038868e.js.map",
     "static/css/2.150d169a.chunk.css": "/myapp/static/css/2.150d169a.chunk.css",
-    "static/js/2.4eb5b46a.chunk.js": "/myapp/static/js/2.4eb5b46a.chunk.js",
-    "static/js/2.4eb5b46a.chunk.js.map": "/myapp/static/js/2.4eb5b46a.chunk.js.map",
-    "static/js/3.3a2505fd.chunk.js": "/myapp/static/js/3.3a2505fd.chunk.js",
-    "static/js/3.3a2505fd.chunk.js.map": "/myapp/static/js/3.3a2505fd.chunk.js.map",
+    "static/js/2.2334b7f7.chunk.js": "/myapp/static/js/2.2334b7f7.chunk.js",
+    "static/js/2.2334b7f7.chunk.js.map": "/myapp/static/js/2.2334b7f7.chunk.js.map",
+    "static/js/3.f88581d1.chunk.js": "/myapp/static/js/3.f88581d1.chunk.js",
+    "static/js/3.f88581d1.chunk.js.map": "/myapp/static/js/3.f88581d1.chunk.js.map",
     "index.html": "/myapp/index.html",
     "static/css/2.150d169a.chunk.css.map": "/myapp/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.b9b30937.chunk.css.map": "/myapp/static/css/main.b9b30937.chunk.css.map",
-    "static/js/2.4eb5b46a.chunk.js.LICENSE.txt": "/myapp/static/js/2.4eb5b46a.chunk.js.LICENSE.txt",
+    "static/css/main.85217554.chunk.css.map": "/myapp/static/css/main.85217554.chunk.css.map",
+    "static/js/2.2334b7f7.chunk.js.LICENSE.txt": "/myapp/static/js/2.2334b7f7.chunk.js.LICENSE.txt",
     "static/media/ProjectPage.css": "/myapp/static/media/Apex_1_Horizontal_RGB.a00f52d7.svg",
     "static/media/HomePage.css": "/myapp/static/media/Image1.7e92688d.jpg",
     "static/media/StefanCiobanuCV.50be03d6.pdf": "/myapp/static/media/StefanCiobanuCV.50be03d6.pdf",
@@ -24,10 +24,10 @@
     "static/media/usersolid.93b18c33.svg": "/myapp/static/media/usersolid.93b18c33.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.243f6b1b.js",
+    "static/js/runtime-main.c038868e.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.4eb5b46a.chunk.js",
-    "static/css/main.b9b30937.chunk.css",
-    "static/js/main.7136889c.chunk.js"
+    "static/js/2.2334b7f7.chunk.js",
+    "static/css/main.85217554.chunk.css",
+    "static/js/main.d684d7fc.chunk.js"
   ]
 }
