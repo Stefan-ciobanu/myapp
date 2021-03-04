@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/myapp/static/js/main.1e3121e7.chunk.js",
-    "main.js.map": "/myapp/static/js/main.1e3121e7.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.79065ad2.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.79065ad2.js.map",
-    "static/js/2.75023b06.chunk.js": "/myapp/static/js/2.75023b06.chunk.js",
-    "static/js/2.75023b06.chunk.js.map": "/myapp/static/js/2.75023b06.chunk.js.map",
-    "static/js/3.28f4d3e3.chunk.js": "/myapp/static/js/3.28f4d3e3.chunk.js",
-    "static/js/3.28f4d3e3.chunk.js.map": "/myapp/static/js/3.28f4d3e3.chunk.js.map",
+    "main.css": "/myapp/static/css/main.b9b30937.chunk.css",
+    "main.js": "/myapp/static/js/main.7136889c.chunk.js",
+    "main.js.map": "/myapp/static/js/main.7136889c.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.243f6b1b.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.243f6b1b.js.map",
+    "static/css/2.150d169a.chunk.css": "/myapp/static/css/2.150d169a.chunk.css",
+    "static/js/2.4eb5b46a.chunk.js": "/myapp/static/js/2.4eb5b46a.chunk.js",
+    "static/js/2.4eb5b46a.chunk.js.map": "/myapp/static/js/2.4eb5b46a.chunk.js.map",
+    "static/js/3.3a2505fd.chunk.js": "/myapp/static/js/3.3a2505fd.chunk.js",
+    "static/js/3.3a2505fd.chunk.js.map": "/myapp/static/js/3.3a2505fd.chunk.js.map",
     "index.html": "/myapp/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/myapp/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.75023b06.chunk.js.LICENSE.txt": "/myapp/static/js/2.75023b06.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/myapp/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/myapp/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.b9b30937.chunk.css.map": "/myapp/static/css/main.b9b30937.chunk.css.map",
+    "static/js/2.4eb5b46a.chunk.js.LICENSE.txt": "/myapp/static/js/2.4eb5b46a.chunk.js.LICENSE.txt",
+    "static/media/ProjectPage.css": "/myapp/static/media/Apex_1_Horizontal_RGB.a00f52d7.svg",
+    "static/media/HomePage.css": "/myapp/static/media/Image1.7e92688d.jpg",
+    "static/media/StefanCiobanuCV.50be03d6.pdf": "/myapp/static/media/StefanCiobanuCV.50be03d6.pdf",
+    "static/media/briefcasesolid.03a61b54.svg": "/myapp/static/media/briefcasesolid.03a61b54.svg",
+    "static/media/graduationcapsolid.af8ffce9.svg": "/myapp/static/media/graduationcapsolid.af8ffce9.svg",
+    "static/media/homesolid.831db11d.svg": "/myapp/static/media/homesolid.831db11d.svg",
+    "static/media/taskssolid.49f93031.svg": "/myapp/static/media/taskssolid.49f93031.svg",
+    "static/media/usersolid.93b18c33.svg": "/myapp/static/media/usersolid.93b18c33.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79065ad2.js",
-    "static/js/2.75023b06.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1e3121e7.chunk.js"
+    "static/js/runtime-main.243f6b1b.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.4eb5b46a.chunk.js",
+    "static/css/main.b9b30937.chunk.css",
+    "static/js/main.7136889c.chunk.js"
   ]
 }
