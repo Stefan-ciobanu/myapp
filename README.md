@@ -1,6 +1,6 @@
 # myapp
 
-##Team:
+## Team:
 
 - Stefan-Emanuel Ciobanu - stefan.e.ciobanu@gmail.com
 
