@@ -7,6 +7,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import PopUp from "../PopUpPage/PopUp";
 import AboutPage from "../AboutPage/AboutPage";
+import lf30_editor_ovtejlh3 from "../LottieFiles/lf30_editor_ovtejlh3.json";
+import { Player, Controls } from "@lottiefiles/react-lottie-player";
 
 export default class HomePage extends React.Component {
   render() {
@@ -27,6 +29,7 @@ export default class HomePage extends React.Component {
                 clean & user‑friendly experiences, I am passionate about
                 building excellent software.
               </p>
+
               <Link to="/about">
                 <button className="button-about">More About Me</button>
               </Link>

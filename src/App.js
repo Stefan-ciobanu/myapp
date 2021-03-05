@@ -29,8 +29,8 @@ class App extends React.Component {
         <Route exact path="/project">
           <ProjectPage/>
         </Route>
-        <Route exact path="/pop:name" component={PopUp}>
-          
+        <Route exact path="/pop" >
+          <PopUp/>
         </Route>
       </Switch>
     </Router>

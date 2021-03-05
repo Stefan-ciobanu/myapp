@@ -34,7 +34,7 @@ export class Header extends React.Component {
           <Col>
             <Row>
               <Col className="appname-container">
-                <Link to="/">
+                <Link to={"/"}>
                   <img src={homesolid} className="app-name  " />
                 </Link>
 
