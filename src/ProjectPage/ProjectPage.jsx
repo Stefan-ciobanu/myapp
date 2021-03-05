@@ -16,12 +16,20 @@ export default function ProjectPage() {
       url: "https://apexprivacy.com/new-apex-home-page/",
     },
     {
-      name: "Thrupny",
-      url: "https://www.thrupny.com/",
+      name: "My IMDB",
+      url: "http://localhost:3003/",
     },
     {
       name: "Datapod",
       url: "https://dataprivacypod.com/",
+    },
+    {
+      name: "Nasa API",
+      url: "http://192.168.0.100:5500/nasa.html",
+    },
+    {
+      name: "Card Game",
+      url: "http://192.168.0.100:5501/index.html",
     },
   ];
 
