@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.85217554.chunk.css",
-    "main.js": "/myapp/static/js/main.d684d7fc.chunk.js",
-    "main.js.map": "/myapp/static/js/main.d684d7fc.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.c038868e.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.c038868e.js.map",
+    "main.css": "/myapp/static/css/main.e3c6bdcc.chunk.css",
+    "main.js": "/myapp/static/js/main.feb0646e.chunk.js",
+    "main.js.map": "/myapp/static/js/main.feb0646e.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.51ebd65a.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.51ebd65a.js.map",
     "static/css/2.150d169a.chunk.css": "/myapp/static/css/2.150d169a.chunk.css",
-    "static/js/2.2334b7f7.chunk.js": "/myapp/static/js/2.2334b7f7.chunk.js",
-    "static/js/2.2334b7f7.chunk.js.map": "/myapp/static/js/2.2334b7f7.chunk.js.map",
-    "static/js/3.f88581d1.chunk.js": "/myapp/static/js/3.f88581d1.chunk.js",
-    "static/js/3.f88581d1.chunk.js.map": "/myapp/static/js/3.f88581d1.chunk.js.map",
+    "static/js/2.0c675078.chunk.js": "/myapp/static/js/2.0c675078.chunk.js",
+    "static/js/2.0c675078.chunk.js.map": "/myapp/static/js/2.0c675078.chunk.js.map",
+    "static/js/3.421fb5bd.chunk.js": "/myapp/static/js/3.421fb5bd.chunk.js",
+    "static/js/3.421fb5bd.chunk.js.map": "/myapp/static/js/3.421fb5bd.chunk.js.map",
     "index.html": "/myapp/index.html",
     "static/css/2.150d169a.chunk.css.map": "/myapp/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.85217554.chunk.css.map": "/myapp/static/css/main.85217554.chunk.css.map",
-    "static/js/2.2334b7f7.chunk.js.LICENSE.txt": "/myapp/static/js/2.2334b7f7.chunk.js.LICENSE.txt",
-    "static/media/ProjectPage.css": "/myapp/static/media/Apex_1_Horizontal_RGB.a00f52d7.svg",
+    "static/css/main.e3c6bdcc.chunk.css.map": "/myapp/static/css/main.e3c6bdcc.chunk.css.map",
+    "static/js/2.0c675078.chunk.js.LICENSE.txt": "/myapp/static/js/2.0c675078.chunk.js.LICENSE.txt",
     "static/media/HomePage.css": "/myapp/static/media/Image1.7e92688d.jpg",
     "static/media/StefanCiobanuCV.50be03d6.pdf": "/myapp/static/media/StefanCiobanuCV.50be03d6.pdf",
     "static/media/briefcasesolid.03a61b54.svg": "/myapp/static/media/briefcasesolid.03a61b54.svg",
@@ -24,10 +23,10 @@
     "static/media/usersolid.93b18c33.svg": "/myapp/static/media/usersolid.93b18c33.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c038868e.js",
+    "static/js/runtime-main.51ebd65a.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.2334b7f7.chunk.js",
-    "static/css/main.85217554.chunk.css",
-    "static/js/main.d684d7fc.chunk.js"
+    "static/js/2.0c675078.chunk.js",
+    "static/css/main.e3c6bdcc.chunk.css",
+    "static/js/main.feb0646e.chunk.js"
   ]
 }
