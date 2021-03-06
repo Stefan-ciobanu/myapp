@@ -27,9 +27,10 @@
 
 .cont-main2 {
   background-color: black;
+
   padding-top: 100px;
-  height: 100vh;
-  width: 60%;
+  height: 1000px;
+  width: 100%;
 }
 
 .port-box {
@@ -38,17 +39,21 @@
   height: 200px;
   border-radius: 10px;
   list-style: none;
-  background-color: rgb(255, 180, 3);
+  background-color: rgb(255, 255, 255);
+  box-shadow: 5px 5px 8px 1px rgba(228, 226, 223, 0.836);
 }
 
 .ul-port {
-  margin-top: 100px;
-  margin-right: 0px;
-  width: 90%;
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 0px;
+  margin: 10px;
+}
+.port-box:hover {
+  background-color: rgba(250, 186, 66, 0.89);
+  opacity: 1;
+  z-index: 100;
+  transform: scale(1.05);
 }
 
 .figure-li-box-1 {
@@ -89,9 +94,24 @@
 }
 
 .client-name {
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(241, 183, 56);
   font-size: 30px;
 }
 .client-name:hover {
-  opacity: 1;
-  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  font-family: "Montserrat", sans-serif;
+  color: rgb(19, 14, 5);
+  font-size: 30px;
+}
+.row-style {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10%;
+  padding-left: 10%;
+  width: 100%;
 }

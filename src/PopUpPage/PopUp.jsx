@@ -31,7 +31,7 @@ const PopUp = (props) => {
               <div className="div-style-detail">
                 {" "}
                 Project:
-                <h6> Website</h6>
+                <h6>{company ? company.project : ""}</h6>
               </div>
               <div className="div-style-detail">
                 {" "}

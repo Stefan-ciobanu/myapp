@@ -13,4 +13,4 @@ const detectDevice = () => {
 };
 
 
-export {detectDevice};
+export { detectDevice};

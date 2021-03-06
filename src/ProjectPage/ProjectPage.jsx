@@ -14,22 +14,39 @@ export default function ProjectPage() {
     {
       name: "Apex",
       url: "https://apexprivacy.com/new-apex-home-page/",
+      lottie: "https://assets8.lottiefiles.com/packages/lf20_knixvxzq.json",
+      project: "Wordpress website",
     },
     {
       name: "My IMDB",
       url: "http://localhost:3003/",
+      lottie: "https://assets6.lottiefiles.com/packages/lf20_hluo7ags.json",
+      project: "Informal School",
     },
     {
       name: "Datapod",
       url: "https://dataprivacypod.com/",
+      lottie: "https://assets8.lottiefiles.com/packages/lf20_lqqhmkxo.json",
+      project: "Wordpress website",
     },
     {
       name: "Nasa API",
       url: "http://192.168.0.100:5500/nasa.html",
+      lottie: "https://assets4.lottiefiles.com/packages/lf20_0VBFAg.json",
+      project: "Informal School",
     },
     {
       name: "Card Game",
       url: "http://192.168.0.100:5501/index.html",
+      lottie:
+        "https://assets10.lottiefiles.com/private_files/lf30_klsv8ygt.json",
+      project: "Informal School",
+    },
+    {
+      name: "Thrupny",
+      url: "https://www.thrupny.com/",
+      lottie: "https://assets5.lottiefiles.com/temp/lf20_iRxzMr.json",
+      project: "Wordpress website",
     },
   ];
 
@@ -48,13 +65,14 @@ export default function ProjectPage() {
 
   return (
     <Container fluid className="cont-main2 color-change-3x2">
-      {seen ? (
-        <PopUp unToggle={unTogglePop} clickedCompany={clickedCompany} />
-      ) : null}
-      {data.map((company, index) => {
-        return (
-          <Row className="title-about">
-            <Col>
+      <Title />
+      <Row className="row-style">
+        {seen ? (
+          <PopUp unToggle={unTogglePop} clickedCompany={clickedCompany} />
+        ) : null}
+        {data.map((company, index) => {
+          return (
+            <div className="ul-port">
               <li
                 className="port-box"
                 onClick={() => {
@@ -65,22 +83,32 @@ export default function ProjectPage() {
                 <div className="client-name">{company.name}</div>
                 <Player
                   autoplay
-                  loop={false}
-                  className="figure-li-box-2"
-                  src={company.lofiFile}
-                  style={{ height: "200px", width: "200px" }}
+                  loop={true}
+                  src={company.lottie}
+                  style={{ height: "150px", width: "200px" }}
                 >
                   <Controls visible={false} />
                 </Player>
               </li>
-            </Col>
-          </Row>
-        );
-      })}
+            </div>
+          );
+        })}
+      </Row>
     </Container>
   );
 }
 
+function Title() {
+  return (
+    <Row className="title-about">
+      <h1 className="about-align ">
+        MY
+        <span className="style-me">PORTFOLIO</span>
+      </h1>
+      <span className="background-title">WORKS</span>
+    </Row>
+  );
+}
 // export default class ProjectPage extends React.Component {
 //   constructor(props) {
 //     super(props);
