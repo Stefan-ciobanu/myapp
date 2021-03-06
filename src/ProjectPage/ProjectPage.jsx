@@ -19,7 +19,7 @@ export default function ProjectPage() {
     },
     {
       name: "My IMDB",
-      url: "http://localhost:3003/",
+      url: "http://localhost:3002/",
       lottie: "https://assets6.lottiefiles.com/packages/lf20_hluo7ags.json",
       project: "Informal School",
     },
